@@ -1,0 +1,10 @@
+%h1
+%h2(data-bind="badges.length | append ' achievements'")
+
+%ul
+  %li(data-foreach-badge="badges")
+    %img(data-bind-src="badge.badge")
+    .name(data-bind="badge.name")
+    .description(data-bind="badge.description")
+
+%p(class="updated-at" data-bind="updatedAtMessage")
