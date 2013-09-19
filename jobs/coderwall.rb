@@ -1,6 +1,8 @@
 require "open-uri"
 require "json"
 
+# widget configuration
+
 username = "YOUR_USERNAME"
 
 SCHEDULER.every "60m", first_in: 0 do |job|
