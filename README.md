@@ -1,6 +1,8 @@
 # Coderwall widget for Dashing
 
-With the Coderwall widget you can show off your achievements (badges) collected on [Coderwall](http://coderwall.com). Coderwall basically is a website that provides developers and any associated teams the opportunity to specify their skills, experiences and interest. By connecting your Github account to your Coderwall profile, you'll be able to receive badges for certain achievements. A few examples of these achievements (and thus the widget itself) can be seen [below](https://github.com/kevintuhumury/dashing-coderwall#preview).
+With the Coderwall widget you can show off your achievements (badges) collected on [Coderwall](http://coderwall.com). It will retrieve new data every hour. It doesn't really need to be more frequent than that, since Coderwall updates achievements approximately once a week.
+
+Coderwall basically is a website that provides developers and any associated teams the opportunity to specify their skills, experiences and interest. By connecting your Github account to your Coderwall profile, you'll be able to receive badges for certain achievements. A few examples of these achievements (and thus the widget itself) can be seen [below](https://github.com/kevintuhumury/dashing-coderwall#preview).
 
 ## Dependencies
 
